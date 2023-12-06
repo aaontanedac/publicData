@@ -1,0 +1,898 @@
+[
+    {
+        "discord": "SirJuancho97",
+        "status": "activo",
+        "name": "Sir Floppas",
+        "id_duelista": " 992-123-212",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "0"
+    },
+    {
+        "discord": "Jaker",
+        "status": "activo",
+        "name": "Jaker ",
+        "id_duelista": " 353-118-074",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "1"
+    },
+    {
+        "discord": "Deanking654",
+        "status": "activo",
+        "name": "deanking654 ",
+        "id_duelista": " 476-608-628",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "2"
+    },
+    {
+        "discord": "ElSaleroSolis",
+        "status": "activo",
+        "name": "Spidersolis ",
+        "id_duelista": " 321-622-456",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "3"
+    },
+    {
+        "discord": "TheGodfather",
+        "status": "activo",
+        "name": "TheGodfather ",
+        "id_duelista": " 507-918-255",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "4"
+    },
+    {
+        "discord": "Atom",
+        "status": "activo",
+        "name": "Atom ",
+        "id_duelista": " 666-010-209",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "5"
+    },
+    {
+        "discord": "neaxgear",
+        "status": "activo",
+        "name": "neaxgear ",
+        "id_duelista": " 304-925-852",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "6"
+    },
+    {
+        "discord": "Diabetico",
+        "status": "activo",
+        "name": "Diabetico ",
+        "id_duelista": " 695-369-370",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "7"
+    },
+    {
+        "discord": "Tarox",
+        "status": "activo",
+        "name": "PoZ T2R0X ",
+        "id_duelista": " 194-079-812",
+        "team": "Zoodiac Broadbull",
+        "id_jugador": "8"
+    },
+    {
+        "discord": "YjohanY",
+        "status": "activo",
+        "name": "YjohanY ",
+        "id_duelista": " 814-256-839",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "9"
+    },
+    {
+        "discord": "Potro Ferrero",
+        "status": "activo",
+        "name": "Potro Ferrero ",
+        "id_duelista": " 154-687-078",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "10"
+    },
+    {
+        "discord": "xMonsterx",
+        "status": "activo",
+        "name": "x|MonsteR|x ",
+        "id_duelista": " 002-976-307",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "11"
+    },
+    {
+        "discord": "Yarcha",
+        "status": "activo",
+        "name": "Chefgi ",
+        "id_duelista": " 498-567-501",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "12"
+    },
+    {
+        "discord": "SABLE1517",
+        "status": "activo",
+        "name": "SABLE 1517 ",
+        "id_duelista": " 412-538-715",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "13"
+    },
+    {
+        "discord": "DanniJz",
+        "status": "activo",
+        "name": "DanniJz ",
+        "id_duelista": " 751-149-161",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "14"
+    },
+    {
+        "discord": "AllSparks",
+        "status": "activo",
+        "name": "???? ",
+        "id_duelista": " ????",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "15"
+    },
+    {
+        "discord": "Dj Miguel 957",
+        "status": "activo",
+        "name": "[LF]DjMiguel ",
+        "id_duelista": " 372-040-084",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "16"
+    },
+    {
+        "discord": "Sherex",
+        "status": "activo",
+        "name": "THEDARKWOLF",
+        "id_duelista": "574-922-963",
+        "team": "Zoodiac Ramram",
+        "id_jugador": "17"
+    },
+    {
+        "discord": "TMC.ChaR",
+        "status": "activo",
+        "name": "TMC.ChaR ",
+        "id_duelista": " 350-217-364",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "18"
+    },
+    {
+        "discord": "Eneas",
+        "status": "activo",
+        "name": "fudo Yusei",
+        "id_duelista": "647-753-739",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "19"
+    },
+    {
+        "discord": "Jidso",
+        "status": "activo",
+        "name": "Jidso ",
+        "id_duelista": " 739-458-212",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "20"
+    },
+    {
+        "discord": "KRISSRF",
+        "status": "activo",
+        "name": "\u300cL\u0191\u300dKRISS~ ",
+        "id_duelista": " 038-174-466",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "21"
+    },
+    {
+        "discord": "Velbro_lmr",
+        "status": "activo",
+        "name": "Velbro_lmr ",
+        "id_duelista": " 754-556-127",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "22"
+    },
+    {
+        "discord": "7anahoria",
+        "status": "activo",
+        "name": "7anahoria ",
+        "id_duelista": " 046-678-759",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "23"
+    },
+    {
+        "discord": "Fudo Yusei [LF]",
+        "status": "activo",
+        "name": "Fudo Yusei ",
+        "id_duelista": "647-753-739",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "24"
+    },
+    {
+        "discord": "Cerveruz23",
+        "status": "activo",
+        "name": "cerveruz ",
+        "id_duelista": " 970-807-929",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "25"
+    },
+    {
+        "discord": "Nai-Black",
+        "status": "activo",
+        "name": "Nai-Black ",
+        "id_duelista": " 361-989-958",
+        "team": "Zoodiac Chakanine",
+        "id_jugador": "26"
+    },
+    {
+        "discord": "Fabricio557",
+        "status": "activo",
+        "name": "???? ",
+        "id_duelista": " ????",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "27"
+    },
+    {
+        "discord": "Leverkuzen22",
+        "status": "activo",
+        "name": "[PoZ]-Lever ",
+        "id_duelista": " 055-568-699",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "28"
+    },
+    {
+        "discord": "Win neo",
+        "status": "activo",
+        "name": "winneo_kaus ",
+        "id_duelista": " 871-835-581 ",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "29"
+    },
+    {
+        "discord": "Lepape",
+        "status": "activo",
+        "name": "Lepape ",
+        "id_duelista": " 264-805-417",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "30"
+    },
+    {
+        "discord": "Yoshimitzu",
+        "status": "activo",
+        "name": "L\u0191Yoshimitzu ",
+        "id_duelista": " 252-620-186",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "31"
+    },
+    {
+        "discord": "CatIce",
+        "status": "activo",
+        "name": "CatIce ",
+        "id_duelista": " 451-002-296",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "32"
+    },
+    {
+        "discord": "KAITO",
+        "status": "activo",
+        "name": "LDS Kaito ",
+        "id_duelista": " 654-510-632",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "33"
+    },
+    {
+        "discord": "PajosoGOD",
+        "status": "activo",
+        "name": "Adri\u00e1n\u2764\u3010OoZ\u3011",
+        "id_duelista": " 080-843-456",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "34"
+    },
+    {
+        "discord": "CaarlosM",
+        "status": "activo",
+        "name": "CaarlosM",
+        "id_duelista": "769-627-060",
+        "team": "Zoodiac Whiptail",
+        "id_jugador": "35"
+    },
+    {
+        "discord": "Mr.Jigsaw",
+        "status": "activo",
+        "name": "Mr.Jigsaw ",
+        "id_duelista": " 783-995-295",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "36"
+    },
+    {
+        "discord": "ShadowDifer",
+        "status": "activo",
+        "name": "ShadowDifer ",
+        "id_duelista": " 468-379-306",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "37"
+    },
+    {
+        "discord": "JoanZ",
+        "status": "activo",
+        "name": "JoanZ ",
+        "id_duelista": " 133-131-931",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "38"
+    },
+    {
+        "discord": "edar44",
+        "status": "activo",
+        "name": "edar44 ",
+        "id_duelista": " 953-968-344",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "39"
+    },
+    {
+        "discord": "Frosttymint",
+        "status": "activo",
+        "name": "FrosttyMint ",
+        "id_duelista": " 526-345-539",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "40"
+    },
+    {
+        "discord": "Saga",
+        "status": "activo",
+        "name": "Saga ",
+        "id_duelista": " 267-717-294",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "41"
+    },
+    {
+        "discord": "YulkeCrow",
+        "status": "activo",
+        "name": "YulkeCrow ",
+        "id_duelista": " 838-552-636",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "42"
+    },
+    {
+        "discord": "Peter",
+        "status": "activo",
+        "name": "Peter ",
+        "id_duelista": " 374-906-556",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "43"
+    },
+    {
+        "discord": "Renluui",
+        "status": "activo",
+        "name": "renluui(POZ)  ",
+        "id_duelista": " 676-525-327",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "44"
+    },
+    {
+        "discord": "Link",
+        "status": "activo",
+        "name": "[BK] - Link",
+        "id_duelista": "449-183-830",
+        "team": "Zoodiac Ratpier",
+        "id_jugador": "45"
+    },
+    {
+        "discord": "Axlink",
+        "status": "activo",
+        "name": "Axlink ",
+        "id_duelista": " 426-529-332",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "46"
+    },
+    {
+        "discord": "Essayer",
+        "status": "activo",
+        "name": "Essayer ",
+        "id_duelista": " 325-219-243",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "47"
+    },
+    {
+        "discord": "Alejandroj1998",
+        "status": "activo",
+        "name": "Alejandro j ",
+        "id_duelista": " 950-882-441",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "48"
+    },
+    {
+        "discord": "BigCris",
+        "status": "activo",
+        "name": "BigCris ",
+        "id_duelista": " 284-022-243",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "49"
+    },
+    {
+        "discord": "Nezz \u270c\ud83c\udffe",
+        "status": "activo",
+        "name": "Nezz \u270c\ud83c\udffe ",
+        "id_duelista": " 399-111-373",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "50"
+    },
+    {
+        "discord": "Daniel 2104",
+        "status": "activo",
+        "name": "Daniel21 ",
+        "id_duelista": " 486-235-680",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "51"
+    },
+    {
+        "discord": "Foongus",
+        "status": "activo",
+        "name": "Foongus ",
+        "id_duelista": " 541-663-919",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "52"
+    },
+    {
+        "discord": "Toom",
+        "status": "activo",
+        "name": "comodin",
+        "id_duelista": "512-041-162",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "53"
+    },
+    {
+        "discord": "StardustAccel",
+        "status": "activo",
+        "name": "StardustAccel ",
+        "id_duelista": " 507-269-572",
+        "team": "Zoodiac Hammerkong",
+        "id_jugador": "54"
+    },
+    {
+        "discord": "Ragnar0894",
+        "status": "activo",
+        "name": "Ragnar ",
+        "id_duelista": " 324-300-662",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "55"
+    },
+    {
+        "discord": "DarkAl13",
+        "status": "activo",
+        "name": "(Kaus) DarkAl13 ",
+        "id_duelista": " 662-292-416",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "56"
+    },
+    {
+        "discord": "Sorao",
+        "status": "activo",
+        "name": "Sorao ",
+        "id_duelista": " 696-390-651",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "57"
+    },
+    {
+        "discord": "SatoBaka",
+        "status": "activo",
+        "name": "SatoBaka ",
+        "id_duelista": " 433-438-268",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "58"
+    },
+    {
+        "discord": "Cristhian095",
+        "status": "activo",
+        "name": "Hidan095 ",
+        "id_duelista": " 119-981-881",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "59"
+    },
+    {
+        "discord": "Zorai",
+        "status": "activo",
+        "name": "Zoraineta ",
+        "id_duelista": " 563-339-941",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "60"
+    },
+    {
+        "discord": "Tiesto_Loco",
+        "status": "activo",
+        "name": "Tiesto_Loco ",
+        "id_duelista": " 972-935-827",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "61"
+    },
+    {
+        "discord": "AmeliaGinko",
+        "status": "activo",
+        "name": "MayoriAmelia ",
+        "id_duelista": " 762-967-302",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "62"
+    },
+    {
+        "discord": "YanZK",
+        "status": "activo",
+        "name": "[LF] Yan ",
+        "id_duelista": " 590-135-625",
+        "team": "Zoodiac Thoroughblade",
+        "id_jugador": "63"
+    },
+    {
+        "discord": "AkromA",
+        "status": "expulsado",
+        "name": "AkromA ",
+        "id_duelista": " 070-652-976",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "64"
+    },
+    {
+        "discord": "Aleccros",
+        "status": "activo",
+        "name": "Alecc-PoZ ",
+        "id_duelista": " 702-167-724",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "65"
+    },
+    {
+        "discord": "MechaLux",
+        "status": "activo",
+        "name": "(Sin nombre) ",
+        "id_duelista": " 513-715-104",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "66"
+    },
+    {
+        "discord": "\u5b9b\u5148Dest2.0MX",
+        "status": "activo",
+        "name": "\u5b9b\u5148Dest2.0MX ",
+        "id_duelista": " 925-649-253",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "67"
+    },
+    {
+        "discord": "Lekslus",
+        "status": "activo",
+        "name": "Letra ",
+        "id_duelista": " 037-949-533",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "68"
+    },
+    {
+        "discord": "JhoanVM",
+        "status": "activo",
+        "name": "JhoanVM ",
+        "id_duelista": " 048-086-646",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "69"
+    },
+    {
+        "discord": "adr1an98760",
+        "status": "activo",
+        "name": "adriano ",
+        "id_duelista": " 916-872-183",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "70"
+    },
+    {
+        "discord": "Midnight Rider",
+        "status": "activo",
+        "name": "PepoSucio ",
+        "id_duelista": " 705-587-642",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "71"
+    },
+    {
+        "discord": "DARKQUIROZ",
+        "status": "activo",
+        "name": "DARKQUIROZ ",
+        "id_duelista": " 965-706-856",
+        "team": "Zoodiac Tigermortar",
+        "id_jugador": "72"
+    },
+    {
+        "discord": "T3r4",
+        "status": "activo",
+        "name": "T3r4 ",
+        "id_duelista": " 656-389-732",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "73"
+    },
+    {
+        "discord": "Bacatox",
+        "status": "activo",
+        "name": "Bacatox ",
+        "id_duelista": " 724-413-039",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "74"
+    },
+    {
+        "discord": "Camila",
+        "status": "activo",
+        "name": "Kaoba ",
+        "id_duelista": " 071-619-929",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "75"
+    },
+    {
+        "discord": "Oliver Ramirez",
+        "status": "activo",
+        "name": "Oli11 ",
+        "id_duelista": " 532-876-933",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "76"
+    },
+    {
+        "discord": "Soul_Hunter",
+        "status": "activo",
+        "name": "Soul Hunter",
+        "id_duelista": "611-544-505",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "77"
+    },
+    {
+        "discord": "Zealotes",
+        "status": "activo",
+        "name": "Zealotes ",
+        "id_duelista": " 443-475-621",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "78"
+    },
+    {
+        "discord": "Jason xd",
+        "status": "activo",
+        "name": "xJasonx ",
+        "id_duelista": " 826-050-329",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "79"
+    },
+    {
+        "discord": "A\u1571\u13d2\u053e\u0e200231",
+        "status": "activo",
+        "name": "\u271e\u262c\u0394\u0394\u0433\u3116\u03b7\u262c\u271e ",
+        "id_duelista": " 059-719-701",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "80"
+    },
+    {
+        "discord": "Baldor",
+        "status": "activo",
+        "name": "Baldor",
+        "id_duelista": "714-198-143",
+        "team": "Zoodiac Kataroost",
+        "id_jugador": "81"
+    },
+    {
+        "discord": "EzWin",
+        "status": "activo",
+        "name": "Takami LDS ",
+        "id_duelista": " 122-040-627",
+        "team": "Zoodiac Drident",
+        "id_jugador": "82"
+    },
+    {
+        "discord": "GardenLink",
+        "status": "activo",
+        "name": "GardenLink93 ",
+        "id_duelista": " 080-880-734",
+        "team": "Zoodiac Drident",
+        "id_jugador": "83"
+    },
+    {
+        "discord": "GrabnineGM",
+        "status": "activo",
+        "name": "GrabnineGM ",
+        "id_duelista": " 563-662-785",
+        "team": "Zoodiac Drident",
+        "id_jugador": "84"
+    },
+    {
+        "discord": "MrDarus",
+        "status": "activo",
+        "name": "MrDarusDC o BoorpaDarus ",
+        "id_duelista": " 039-483-748",
+        "team": "Zoodiac Drident",
+        "id_jugador": "85"
+    },
+    {
+        "discord": "Itami",
+        "status": "activo",
+        "name": "Itami ",
+        "id_duelista": " 544-256-825",
+        "team": "Zoodiac Drident",
+        "id_jugador": "86"
+    },
+    {
+        "discord": "Alther241",
+        "status": "activo",
+        "name": "???? ",
+        "id_duelista": " ????",
+        "team": "Zoodiac Drident",
+        "id_jugador": "87"
+    },
+    {
+        "discord": "Espeon685",
+        "status": "activo",
+        "name": "Espeon685 ",
+        "id_duelista": " 273-872-706",
+        "team": "Zoodiac Drident",
+        "id_jugador": "88"
+    },
+    {
+        "discord": "Sixelemental",
+        "status": "activo",
+        "name": "Sixelemental ",
+        "id_duelista": " 506-249-590",
+        "team": "Zoodiac Drident",
+        "id_jugador": "89"
+    },
+    {
+        "discord": "GenbuPondo",
+        "status": "activo",
+        "name": "???? ",
+        "id_duelista": " ????",
+        "team": "Zoodiac Drident",
+        "id_jugador": "90"
+    },
+    {
+        "discord": "Yam",
+        "status": "activo",
+        "name": "Redsnow ",
+        "id_duelista": " 849-767-369",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "91"
+    },
+    {
+        "discord": "DiegoCRelayze",
+        "status": "activo",
+        "name": "DiegoCRelayz ",
+        "id_duelista": " 863-025-161",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "92"
+    },
+    {
+        "discord": "Rixvy",
+        "status": "activo",
+        "name": "Rixvy ",
+        "id_duelista": "597-461-817",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "93"
+    },
+    {
+        "discord": "M\u00e1gnum Peko",
+        "status": "activo",
+        "name": "Magnun Peko ",
+        "id_duelista": " 946-467-849",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "94"
+    },
+    {
+        "discord": "Ultimate Jewz Dark Night",
+        "status": "activo",
+        "name": "\u300cL\u0191\u300dJewz ",
+        "id_duelista": " 134-859-097",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "95"
+    },
+    {
+        "discord": "El loco del pueblo",
+        "status": "activo",
+        "name": "SantiLoco",
+        "id_duelista": "213-633-070",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "96"
+    },
+    {
+        "discord": "CyanPyle",
+        "status": "activo",
+        "name": "CyanPyle ",
+        "id_duelista": " 002-125-898",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "97"
+    },
+    {
+        "discord": "Maltin Power",
+        "status": "activo",
+        "name": "Maltin (kaus) ",
+        "id_duelista": " 193-319-863",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "98"
+    },
+    {
+        "discord": "GPGamerPlay",
+        "status": "activo",
+        "name": "???? ",
+        "id_duelista": " ????",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "99"
+    },
+    {
+        "discord": "dgalarzafitness",
+        "status": "activo",
+        "name": "???? ",
+        "id_duelista": " ????",
+        "team": "Zoodiac Boarbow",
+        "id_jugador": "100"
+    },
+    {
+        "discord": "Danydolche",
+        "status": "activo",
+        "name": "NEPGYAAA ",
+        "id_duelista": " 918-690-819",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "101"
+    },
+    {
+        "discord": "Pelipezz",
+        "status": "activo",
+        "name": "Pelipezz ",
+        "id_duelista": " 053-696-628",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "102"
+    },
+    {
+        "discord": "Redfield_13",
+        "status": "activo",
+        "name": "Redwine13 ",
+        "id_duelista": " 307-215-372",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "103"
+    },
+    {
+        "discord": "Edwardo",
+        "status": "activo",
+        "name": "Edduur",
+        "id_duelista": "888-706-487",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "104"
+    },
+    {
+        "discord": "FDrico",
+        "status": "activo",
+        "name": "FDrico  ",
+        "id_duelista": " 181-211-883",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "105"
+    },
+    {
+        "discord": "Kenifun",
+        "status": "activo",
+        "name": "Aiden ",
+        "id_duelista": " 267-230-069",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "106"
+    },
+    {
+        "discord": "Ikameme",
+        "status": "activo",
+        "name": "Ikadios ",
+        "id_duelista": " 356-482-219",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "107"
+    },
+    {
+        "discord": "Demon",
+        "status": "activo",
+        "name": "DeMoN ",
+        "id_duelista": " 219-007-766",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "108"
+    },
+    {
+        "discord": "Odlart",
+        "status": "activo",
+        "name": "Odlart",
+        "id_duelista": "600-568-886",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "109"
+    },
+    {
+        "discord": "NelsonL00",
+        "status": "activo",
+        "name": "Bastion Kawamas",
+        "id_duelista": "688-404-513",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "110"
+    },
+    {
+        "discord": "Ozylp",
+        "status": "activo",
+        "name": "Osy",
+        "id_duelista": "248-059-722",
+        "team": "Zoodiac Bunnyblast",
+        "id_jugador": "111"
+    }
+]

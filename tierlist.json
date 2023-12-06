@@ -1,0 +1,1365 @@
+[
+    {
+        "nombre": "Orcust",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93854893.jpg&ch=620&cw=620",
+        "id_tierlist": "0",
+        "name": "Orcust"
+    },
+    {
+        "nombre": "Solfachord",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/80776622.jpg&ch=620&cw=620",
+        "id_tierlist": "1"
+    },
+    {
+        "nombre": "Resonators",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/80666118.jpg&ch=620&cw=620",
+        "id_tierlist": "2"
+    },
+    {
+        "nombre": "Elemental Hero",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/22908820.jpg&ch=620&cw=620",
+        "id_tierlist": "3"
+    },
+    {
+        "nombre": "D\/D\/D",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/74069667.jpg&ch=620&cw=620",
+        "id_tierlist": "4"
+    },
+    {
+        "nombre": "Chronomaly",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/2609443.jpg&ch=620&cw=620",
+        "id_tierlist": "5"
+    },
+    {
+        "nombre": "Onomat",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/8512558.jpg&ch=620&cw=620",
+        "id_tierlist": "6"
+    },
+    {
+        "nombre": "Galaxy Photon",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93717133.jpg&ch=620&cw=620",
+        "id_tierlist": "7"
+    },
+    {
+        "nombre": "Dark Magician",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/50237654.jpg&ch=620&cw=620",
+        "id_tierlist": "8"
+    },
+    {
+        "nombre": "Gouki",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/30286474.jpg&ch=620&cw=620",
+        "id_tierlist": "9"
+    },
+    {
+        "nombre": "S-Force",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/22180094.jpg&ch=620&cw=620",
+        "id_tierlist": "10"
+    },
+    {
+        "nombre": "Synchrons",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/35952884.jpg&ch=620&cw=620",
+        "id_tierlist": "11"
+    },
+    {
+        "nombre": "Rokket",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/31833038.jpg&ch=620&cw=620",
+        "id_tierlist": "12"
+    },
+    {
+        "nombre": "Abyss Actors",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/25629622.jpg&ch=620&cw=620",
+        "id_tierlist": "13"
+    },
+    {
+        "nombre": "Black Rose Dragon",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/40139997.jpg&ch=620&cw=620",
+        "id_tierlist": "14"
+    },
+    {
+        "nombre": "Burning Abyss",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/83531441.jpg&ch=620&cw=620",
+        "id_tierlist": "15"
+    },
+    {
+        "nombre": "Code Talker",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/1861629.jpg&ch=620&cw=620",
+        "id_tierlist": "16"
+    },
+    {
+        "nombre": "Gandora",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/58330108.jpg&ch=620&cw=620",
+        "id_tierlist": "17"
+    },
+    {
+        "nombre": "Metalfoes",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/4688231.jpg&ch=620&cw=620",
+        "id_tierlist": "18"
+    },
+    {
+        "nombre": "Red-Eyes",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/74677422.jpg&ch=620&cw=620",
+        "id_tierlist": "19"
+    },
+    {
+        "nombre": "Odd-Eyes",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/16178681.jpg&ch=620&cw=620",
+        "id_tierlist": "20"
+    },
+    {
+        "nombre": "Railway",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/26096328.jpg&ch=620&cw=620",
+        "id_tierlist": "21"
+    },
+    {
+        "nombre": "Sharks",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/7150545.jpg&h=620&w=620",
+        "id_tierlist": "22"
+    },
+    {
+        "nombre": "Pendulum Magician",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/20409757.jpg&ch=620&cw=620",
+        "id_tierlist": "23"
+    },
+    {
+        "nombre": "Mekk-Knight",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/28692962.jpg&ch=620&cw=620",
+        "id_tierlist": "24"
+    },
+    {
+        "nombre": "Salamangreat ",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/26889158.jpg&ch=620&cw=620",
+        "id_tierlist": "25"
+    },
+    {
+        "nombre": "Phantom Knights",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/62709239.jpg&ch=620&cw=620",
+        "id_tierlist": "26"
+    },
+    {
+        "nombre": "Crusadia",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/45002991.jpg&ch=620&cw=620",
+        "id_tierlist": "27"
+    },
+    {
+        "nombre": "Dracoslayer",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/92746535.jpg&ch=620&cw=620",
+        "id_tierlist": "28"
+    },
+    {
+        "nombre": "Kozmos",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/31061682.jpg&ch=620&cw=620",
+        "id_tierlist": "29"
+    },
+    {
+        "nombre": "Magical Musketeer",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/32841045.jpg&ch=620&cw=620",
+        "id_tierlist": "30"
+    },
+    {
+        "nombre": "Vampires",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/37129797.jpg&ch=620&cw=620",
+        "id_tierlist": "31"
+    },
+    {
+        "nombre": "Trickstar",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/32448765.jpg&ch=620&cw=620",
+        "id_tierlist": "32"
+    },
+    {
+        "nombre": "Timelord",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/8967776.jpg&ch=620&cw=620",
+        "id_tierlist": "33"
+    },
+    {
+        "nombre": "Fluffal",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/464362.jpg&ch=620&cw=620",
+        "id_tierlist": "34"
+    },
+    {
+        "nombre": "Raidraptor",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/73887236.jpg&ch=620&cw=620",
+        "id_tierlist": "35"
+    },
+    {
+        "nombre": "Blackwings",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/81470373.jpg&ch=620&cw=620",
+        "id_tierlist": "36"
+    },
+    {
+        "nombre": "Triamids",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/32912040.jpg&ch=620&cw=620",
+        "id_tierlist": "37"
+    },
+    {
+        "nombre": "Magistus",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/36099130.jpg&ch=620&cw=620",
+        "id_tierlist": "38"
+    },
+    {
+        "nombre": "Blue-Eyes",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/89631145.jpg&ch=620&cw=620",
+        "id_tierlist": "39"
+    },
+    {
+        "nombre": "Dragunity",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/48891960.jpg&ch=620&cw=620",
+        "id_tierlist": "40"
+    },
+    {
+        "nombre": "World Chalice",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/30194529.jpg&ch=620&cw=620",
+        "id_tierlist": "41"
+    },
+    {
+        "nombre": "Buster Blader",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/86240887.jpg&ch=620&cw=620",
+        "id_tierlist": "42"
+    },
+    {
+        "nombre": "Fossil",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/96897184.jpg&ch=620&cw=620",
+        "id_tierlist": "43"
+    },
+    {
+        "nombre": "Gimmick Puppet",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/79086452.jpg&ch=620&cw=620",
+        "id_tierlist": "44"
+    },
+    {
+        "nombre": "Harpies",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/63261835.jpg&ch=620&cw=620",
+        "id_tierlist": "45"
+    },
+    {
+        "nombre": "Krawler",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/66393507.jpg&ch=620&cw=620",
+        "id_tierlist": "46"
+    },
+    {
+        "nombre": "Yosenju",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93368494.jpg&ch=620&cw=620",
+        "id_tierlist": "47"
+    },
+    {
+        "nombre": "Infernoid",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/58446973.jpg&ch=620&cw=620",
+        "id_tierlist": "48"
+    },
+    {
+        "nombre": "Malefic",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/16958382.jpg&ch=620&cw=620",
+        "id_tierlist": "49"
+    },
+    {
+        "nombre": "Nekroz",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/52068432.jpg&ch=620&cw=620",
+        "id_tierlist": "50"
+    },
+    {
+        "nombre": "Qliphort",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/65518099.jpg&ch=620&cw=620",
+        "id_tierlist": "51"
+    },
+    {
+        "nombre": "Satellarknight ",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/64414267.jpg&ch=620&cw=620",
+        "id_tierlist": "52"
+    },
+    {
+        "nombre": "Six Samurais",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/29981921.jpg&ch=620&cw=620",
+        "id_tierlist": "53"
+    },
+    {
+        "nombre": "Starry Night",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/90835938.jpg&ch=620&cw=620",
+        "id_tierlist": "54"
+    },
+    {
+        "nombre": "Super Quant",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/84025439.jpg&ch=620&cw=620",
+        "id_tierlist": "55"
+    },
+    {
+        "nombre": "War Rock",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/10497636.jpg&ch=620&cw=620",
+        "id_tierlist": "56"
+    },
+    {
+        "nombre": "Melodius",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/84988419.jpg&ch=620&cw=620",
+        "id_tierlist": "57"
+    },
+    {
+        "nombre": "T.G.",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/98558751.jpg&ch=620&cw=620",
+        "id_tierlist": "58"
+    },
+    {
+        "nombre": "Shiranui",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/59843383.jpg&ch=620&cw=620",
+        "id_tierlist": "59"
+    },
+    {
+        "nombre": "Thunder Dragon",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/56713174.jpg&ch=620&cw=620",
+        "id_tierlist": "60"
+    },
+    {
+        "nombre": "Crystron",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/13455674.jpg&ch=620&cw=620",
+        "id_tierlist": "61"
+    },
+    {
+        "nombre": "Darklord",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/52840267.jpg&ch=620&cw=620",
+        "id_tierlist": "63"
+    },
+    {
+        "nombre": "Fur Hires",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93850652.jpg&ch=620&cw=620",
+        "id_tierlist": "64"
+    },
+    {
+        "nombre": "Cubic",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/20137754.jpg&ch=620&cw=620",
+        "id_tierlist": "65"
+    },
+    {
+        "nombre": "Infernity",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/99177923.jpg&ch=620&cw=620",
+        "id_tierlist": "66"
+    },
+    {
+        "nombre": "Lightsworn",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/4779823.jpg&ch=620&cw=620",
+        "id_tierlist": "68"
+    },
+    {
+        "nombre": "Noble Knight",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/59057152.jpg&ch=620&cw=620",
+        "id_tierlist": "69"
+    },
+    {
+        "nombre": "Fire King",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/23015896.jpg&ch=620&cw=620",
+        "id_tierlist": "70"
+    },
+    {
+        "nombre": "Witchcrafter&nbsp;",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/21522601.jpg&ch=620&cw=620",
+        "id_tierlist": "71"
+    },
+    {
+        "nombre": "Magnet Warriors",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/42901635.jpg&ch=620&cw=620",
+        "id_tierlist": "72"
+    },
+    {
+        "nombre": "Evil Eye",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/44133040.jpg&ch=620&cw=620",
+        "id_tierlist": "73"
+    },
+    {
+        "nombre": "Lunalight",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/88753594.jpg&ch=620&cw=620",
+        "id_tierlist": "74"
+    },
+    {
+        "nombre": "Meklords",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/4837861.jpg&ch=620&cw=620",
+        "id_tierlist": "75"
+    },
+    {
+        "nombre": "Vendread",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/91420202.jpg&ch=620&cw=620",
+        "id_tierlist": "76"
+    },
+    {
+        "nombre": "Gadget",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/55010259.jpg&ch=620&cw=620",
+        "id_tierlist": "77"
+    },
+    {
+        "nombre": "Ice Barrier",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/52687916.jpg&ch=620&cw=620",
+        "id_tierlist": "78"
+    },
+    {
+        "nombre": "Superheavy Samurais",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/494922.jpg&ch=620&cw=620",
+        "id_tierlist": "79"
+    },
+    {
+        "nombre": "Destiny Hero",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/40591390.jpg&ch=620&cw=620",
+        "id_tierlist": "80"
+    },
+    {
+        "nombre": "Ritual Beast",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/65193366.jpg&ch=620&cw=620",
+        "id_tierlist": "81"
+    },
+    {
+        "nombre": "Evoltile",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/74294676.jpg&ch=620&cw=620",
+        "id_tierlist": "82"
+    },
+    {
+        "nombre": "Madolche",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/37164373.jpg&ch=620&cw=620",
+        "id_tierlist": "83"
+    },
+    {
+        "nombre": "Fire Fist",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93877990.jpg&ch=620&cw=620",
+        "id_tierlist": "84"
+    },
+    {
+        "nombre": "Gravekeepers",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/17393207.jpg&ch=620&cw=620",
+        "id_tierlist": "85"
+    },
+    {
+        "nombre": "Infinitrack",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/62034800.jpg&ch=620&cw=620",
+        "id_tierlist": "86"
+    },
+    {
+        "nombre": "Sacred Beast",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/81034083.jpg&ch=620&cw=620",
+        "id_tierlist": "87"
+    },
+    {
+        "nombre": "Black Luster Soldier",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/54484652.jpg&ch=620&cw=620",
+        "id_tierlist": "88"
+    },
+    {
+        "nombre": "Bujin",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/75840616.jpg&ch=620&cw=620",
+        "id_tierlist": "89"
+    },
+    {
+        "nombre": "Crystal Beast",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/7093411.jpg&ch=620&cw=620",
+        "id_tierlist": "90"
+    },
+    {
+        "nombre": "Cyber Dragon",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/58069384.jpg&ch=620&cw=620",
+        "id_tierlist": "91"
+    },
+    {
+        "nombre": "Dinomist",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/41554273.jpg&ch=620&cw=620",
+        "id_tierlist": "92"
+    },
+    {
+        "nombre": "Gaia, the Fierce Knight",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/2519690.jpg&ch=620&cw=620",
+        "id_tierlist": "93"
+    },
+    {
+        "nombre": "Prediction Princess",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/94997874.jpg&ch=620&cw=620",
+        "id_tierlist": "94"
+    },
+    {
+        "nombre": "Ninjas",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/95027497.jpg&ch=620&cw=620",
+        "id_tierlist": "95"
+    },
+    {
+        "nombre": "Castle of Stromberg",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/72283691.jpg&ch=620&cw=620",
+        "id_tierlist": "96"
+    },
+    {
+        "nombre": "Hazy Flame",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/23776077.jpg&ch=620&cw=620",
+        "id_tierlist": "97"
+    },
+    {
+        "nombre": "Aromage",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/58569561.jpg&ch=620&cw=620",
+        "id_tierlist": "98"
+    },
+    {
+        "nombre": "Predaplant",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/25586143.jpg&ch=620&cw=620",
+        "id_tierlist": "99"
+    },
+    {
+        "nombre": "Deskbot",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/59368956.jpg&ch=620&cw=620",
+        "id_tierlist": "100"
+    },
+    {
+        "nombre": "Evil Hero",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/13650422.jpg&ch=620&cw=620",
+        "id_tierlist": "101"
+    },
+    {
+        "nombre": "Fortune Lady",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/70252926.jpg&ch=620&cw=620",
+        "id_tierlist": "102"
+    },
+    {
+        "nombre": "Valkyries",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/97854941.jpg&ch=620&cw=620",
+        "id_tierlist": "103"
+    },
+    {
+        "nombre": "Subterror",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/42713844.jpg&ch=620&cw=620",
+        "id_tierlist": "104"
+    },
+    {
+        "nombre": "Machina",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/5556499.jpg&ch=620&cw=620",
+        "id_tierlist": "105"
+    },
+    {
+        "nombre": "Megalith",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/99628747.jpg&ch=620&cw=620",
+        "id_tierlist": "106"
+    },
+    {
+        "nombre": "Wheather Painter",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/65017789.jpg&ch=620&cw=620",
+        "id_tierlist": "107"
+    },
+    {
+        "nombre": "U.A.",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/72491806.jpg&ch=620&cw=620",
+        "id_tierlist": "108"
+    },
+    {
+        "nombre": "Star Seraph",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/38331564.jpg&ch=620&cw=620",
+        "id_tierlist": "109"
+    },
+    {
+        "nombre": "Koa'ki Meiru",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/30936186.jpg&ch=620&cw=620",
+        "id_tierlist": "110"
+    },
+    {
+        "nombre": "Ancient Gear",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/83104731.jpg&ch=620&cw=620",
+        "id_tierlist": "111"
+    },
+    {
+        "nombre": "Amazoness",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/15951532.jpg&ch=620&cw=620",
+        "id_tierlist": "112"
+    },
+    {
+        "nombre": "Elementsaber",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/45702014.jpg&ch=620&cw=620",
+        "id_tierlist": "113"
+    },
+    {
+        "nombre": "Magician Girls",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/7198399.jpg&ch=620&cw=620",
+        "id_tierlist": "114"
+    },
+    {
+        "nombre": "Yubel",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/78371393.jpg&ch=620&cw=620",
+        "id_tierlist": "115"
+    },
+    {
+        "nombre": "Metaphys",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/45960523.jpg&ch=620&cw=620",
+        "id_tierlist": "116"
+    },
+    {
+        "nombre": "Cypher",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/18963306.jpg&ch=620&cw=620",
+        "id_tierlist": "117"
+    },
+    {
+        "nombre": "Nephthys",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/24175232.jpg&ch=620&cw=620",
+        "id_tierlist": "119"
+    },
+    {
+        "nombre": "Arcana Joker",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93880808.jpg&ch=620&cw=620",
+        "id_tierlist": "120"
+    },
+    {
+        "nombre": "Battlewasp",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/26443791.jpg&ch=620&cw=620",
+        "id_tierlist": "121"
+    },
+    {
+        "nombre": "Armageddon \/ Oblivion",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/72426662.jpg&ch=620&cw=620",
+        "id_tierlist": "122"
+    },
+    {
+        "nombre": "Cyber Angel",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/78316184.jpg&ch=620&cw=620",
+        "id_tierlist": "123"
+    },
+    {
+        "nombre": "Dinowrestler",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/77967790.jpg&ch=620&cw=620",
+        "id_tierlist": "124"
+    },
+    {
+        "nombre": "Evilswarm",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/36757171.jpg&ch=620&cw=620",
+        "id_tierlist": "125"
+    },
+    {
+        "nombre": "Felgrand",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/60681103.jpg&ch=620&cw=620",
+        "id_tierlist": "126"
+    },
+    {
+        "nombre": "Hands",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/63746411.jpg&ch=620&cw=620",
+        "id_tierlist": "127"
+    },
+    {
+        "nombre": "Inzektor",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/97273514.jpg&ch=620&cw=620",
+        "id_tierlist": "128"
+    },
+    {
+        "nombre": "Jinzo",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/77585513.jpg&ch=620&cw=620",
+        "id_tierlist": "129"
+    },
+    {
+        "nombre": "Relinquished",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/64631466.jpg&ch=620&cw=620",
+        "id_tierlist": "130"
+    },
+    {
+        "nombre": "Legendary Fisherman",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/3643300.jpg&ch=620&cw=620",
+        "id_tierlist": "131"
+    },
+    {
+        "nombre": "Majespecter",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/31991800.jpg&ch=620&cw=620",
+        "id_tierlist": "132"
+    },
+    {
+        "nombre": "Necrofear",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/14509651.jpg&ch=620&cw=620",
+        "id_tierlist": "133"
+    },
+    {
+        "nombre": "Skull Servant",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/32274490.jpg&ch=620&cw=620",
+        "id_tierlist": "134"
+    },
+    {
+        "nombre": "Paleozoic",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/98414735.jpg&ch=620&cw=620",
+        "id_tierlist": "135"
+    },
+    {
+        "nombre": "Spellbook",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/14824019.jpg&ch=620&cw=620",
+        "id_tierlist": "136"
+    },
+    {
+        "nombre": "Yang Zing",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/83755611.jpg&ch=620&cw=620",
+        "id_tierlist": "137"
+    },
+    {
+        "nombre": "Zefra",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/96223501.jpg&ch=620&cw=620",
+        "id_tierlist": "138"
+    },
+    {
+        "nombre": "Constellar",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/38495396.jpg&ch=620&cw=620",
+        "id_tierlist": "139"
+    },
+    {
+        "nombre": "Digital Bug",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/12615446.jpg&ch=620&cw=620",
+        "id_tierlist": "140"
+    },
+    {
+        "nombre": "F.A.",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93449450.jpg&ch=620&cw=620",
+        "id_tierlist": "141"
+    },
+    {
+        "nombre": "Gishki",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/66729231.jpg&ch=620&cw=620",
+        "id_tierlist": "142"
+    },
+    {
+        "nombre": "Heroic",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/60645181.jpg&ch=620&cw=620",
+        "id_tierlist": "143"
+    },
+    {
+        "nombre": "Hieratic",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/64332231.jpg&ch=620&cw=620",
+        "id_tierlist": "144"
+    },
+    {
+        "nombre": "Neo Spacian",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/85840608.jpg&ch=620&cw=620",
+        "id_tierlist": "145"
+    },
+    {
+        "nombre": "Sylvan",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/33909817.jpg&ch=620&cw=620",
+        "id_tierlist": "146"
+    },
+    {
+        "nombre": "Speedroid",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/53054833.jpg&ch=620&cw=620",
+        "id_tierlist": "147"
+    },
+    {
+        "nombre": "Mayakashi",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/42542842.jpg&ch=620&cw=620",
+        "id_tierlist": "148"
+    },
+    {
+        "nombre": "Agents",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/55794644.jpg&ch=620&cw=620",
+        "id_tierlist": "149"
+    },
+    {
+        "nombre": "Gem-Knights",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/39512984.jpg&ch=620&cw=620",
+        "id_tierlist": "150"
+    },
+    {
+        "nombre": "Gladiator Beast",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/88996322.jpg&ch=620&cw=620",
+        "id_tierlist": "151"
+    },
+    {
+        "nombre": "Roid",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/3897065.jpg&ch=620&cw=620",
+        "id_tierlist": "152"
+    },
+    {
+        "nombre": "Kaiju ",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93332803.jpg&ch=620&cw=620",
+        "id_tierlist": "153"
+    },
+    {
+        "nombre": "Dark World",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/74117290.jpg&ch=620&cw=620",
+        "id_tierlist": "154"
+    },
+    {
+        "nombre": "X-Saber",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/2203790.jpg&ch=620&cw=620",
+        "id_tierlist": "155"
+    },
+    {
+        "nombre": "Karakuri",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/30230789.jpg&ch=620&cw=620",
+        "id_tierlist": "156"
+    },
+    {
+        "nombre": "Silent Swordman",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/15180041.jpg&ch=620&cw=620",
+        "id_tierlist": "157"
+    },
+    {
+        "nombre": "Melffy",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/76833149.jpg&ch=620&cw=620",
+        "id_tierlist": "158"
+    },
+    {
+        "nombre": "Watt",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/88205593.jpg&ch=620&cw=620",
+        "id_tierlist": "159"
+    },
+    {
+        "nombre": "Traptrix",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/55428242.jpg&ch=620&cw=620",
+        "id_tierlist": "160"
+    },
+    {
+        "nombre": "Cyberdark",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/18967507.jpg&ch=620&cw=620",
+        "id_tierlist": "161"
+    },
+    {
+        "nombre": "Cardian",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/17141718.jpg&ch=620&cw=620",
+        "id_tierlist": "162"
+    },
+    {
+        "nombre": "Geargia",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/28912357.jpg&ch=620&cw=620",
+        "id_tierlist": "163"
+    },
+    {
+        "nombre": "Wind-Up",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/78156759.jpg&ch=620&cw=620",
+        "id_tierlist": "164"
+    },
+    {
+        "nombre": "Rikka",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/6284176.jpg&ch=620&cw=620",
+        "id_tierlist": "165"
+    },
+    {
+        "nombre": "Performapal",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/40318957.jpg&ch=620&cw=620",
+        "id_tierlist": "166"
+    },
+    {
+        "nombre": "Psy-Frame",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/37192109.jpg&ch=620&cw=620",
+        "id_tierlist": "167"
+    },
+    {
+        "nombre": "B.E.S",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/84257883.jpg&ch=620&cw=620",
+        "id_tierlist": "168"
+    },
+    {
+        "nombre": "Aquaactress",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/39260991.jpg&ch=620&cw=620",
+        "id_tierlist": "169"
+    },
+    {
+        "nombre": "Toon",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/43175858.jpg&ch=620&cw=620",
+        "id_tierlist": "170"
+    },
+    {
+        "nombre": "Parshat",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/69514125.jpg&ch=620&cw=620",
+        "id_tierlist": "171"
+    },
+    {
+        "nombre": "Alien",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/652362.jpg&ch=620&cw=620",
+        "id_tierlist": "172"
+    },
+    {
+        "nombre": "Volcanic",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/32543380.jpg&ch=620&cw=620",
+        "id_tierlist": "173"
+    },
+    {
+        "nombre": "Earthbound Immortal",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/10875327.jpg&ch=620&cw=620",
+        "id_tierlist": "174"
+    },
+    {
+        "nombre": "Butterspy",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/43573231.jpg&ch=620&cw=620",
+        "id_tierlist": "175"
+    },
+    {
+        "nombre": "Stray Cat \/ Cat Girl",
+        "categoria": "Mas alla del Fun",
+        "src": "images\/gatoyelo.webp",
+        "id_tierlist": "176"
+    },
+    {
+        "nombre": "Chemicritter",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/38026562.jpg&ch=620&cw=620",
+        "id_tierlist": "177"
+    },
+    {
+        "nombre": "Draconia",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/73779005.jpg&ch=620&cw=620",
+        "id_tierlist": "178"
+    },
+    {
+        "nombre": "Super Defense Robot",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/77799846.jpg&ch=620&cw=620",
+        "id_tierlist": "179"
+    },
+    {
+        "nombre": "Dream Mirror",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/25964547.jpg&ch=620&cw=620",
+        "id_tierlist": "180"
+    },
+    {
+        "nombre": "Igknight",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/50407691.jpg&ch=620&cw=620",
+        "id_tierlist": "181"
+    },
+    {
+        "nombre": "SKY FIRE \/ Reactor",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/15175429.jpg&ch=620&cw=620",
+        "id_tierlist": "182"
+    },
+    {
+        "nombre": "Ghostrick",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/54490275.jpg&ch=620&cw=620",
+        "id_tierlist": "183"
+    },
+    {
+        "nombre": "Soldier of Stone",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/13039848.jpg&ch=620&cw=620",
+        "id_tierlist": "184"
+    },
+    {
+        "nombre": "Ally of Justice",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/26593852.jpg&ch=620&cw=620",
+        "id_tierlist": "185"
+    },
+    {
+        "nombre": "Arcana Force",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/60953118.jpg&ch=620&cw=620",
+        "id_tierlist": "186"
+    },
+    {
+        "nombre": "Armed Dragon",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/59464593.jpg&ch=620&cw=620",
+        "id_tierlist": "187"
+    },
+    {
+        "nombre": "Batillin' Boxer",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/71921856.jpg&ch=620&cw=620",
+        "id_tierlist": "188"
+    },
+    {
+        "nombre": "Genex",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/68505803.jpg&ch=620&cw=620",
+        "id_tierlist": "189"
+    },
+    {
+        "nombre": "Graydle",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/52145422.jpg&ch=620&cw=620",
+        "id_tierlist": "190"
+    },
+    {
+        "nombre": "Heraldry",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/2407234.jpg&ch=620&cw=620",
+        "id_tierlist": "191"
+    },
+    {
+        "nombre": "Laval",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/2407147.jpg&ch=620&cw=620",
+        "id_tierlist": "192"
+    },
+    {
+        "nombre": "Mecha Phamton Beast",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/22110647.jpg&ch=620&cw=620",
+        "id_tierlist": "193"
+    },
+    {
+        "nombre": "Monarch",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/9748752.jpg&ch=620&cw=620",
+        "id_tierlist": "194"
+    },
+    {
+        "nombre": "Nordic",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/14677495.jpg&ch=620&cw=620",
+        "id_tierlist": "195"
+    },
+    {
+        "nombre": "Vylon",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93157004.jpg&ch=620&cw=620",
+        "id_tierlist": "196"
+    },
+    {
+        "nombre": "Fortune Fairy",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/5298175.jpg&ch=620&cw=620",
+        "id_tierlist": "197"
+    },
+    {
+        "nombre": "Scrap",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/76774528.jpg&ch=620&cw=620",
+        "id_tierlist": "198"
+    },
+    {
+        "nombre": "Empowered Warrior",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/54250060.jpg&ch=620&cw=620",
+        "id_tierlist": "199"
+    },
+    {
+        "nombre": "Gusto",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/84766279.jpg&ch=620&cw=620",
+        "id_tierlist": "200"
+    },
+    {
+        "nombre": "Naturia",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/60668166.jpg&ch=620&cw=620",
+        "id_tierlist": "201"
+    },
+    {
+        "nombre": "Fabled",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/39477584.jpg&ch=620&cw=620",
+        "id_tierlist": "202"
+    },
+    {
+        "nombre": "Batteryman",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/56839613.jpg&ch=620&cw=620",
+        "id_tierlist": "203"
+    },
+    {
+        "nombre": "Morphtronic",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/93542102.jpg&ch=620&cw=620",
+        "id_tierlist": "204"
+    },
+    {
+        "nombre": "Ojama",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/90140980.jpg&ch=620&cw=620",
+        "id_tierlist": "205"
+    },
+    {
+        "nombre": "Artifact",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/34267821.jpg&ch=620&cw=620",
+        "id_tierlist": "206"
+    },
+    {
+        "nombre": "Cloudian",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/57610714.jpg&ch=620&cw=620",
+        "id_tierlist": "207"
+    },
+    {
+        "nombre": "Flamvell",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/53714009.jpg&ch=620&cw=620",
+        "id_tierlist": "208"
+    },
+    {
+        "nombre": "Hunder \/ Thunder Family",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/27217742.jpg&ch=620&cw=620",
+        "id_tierlist": "209"
+    },
+    {
+        "nombre": "Worms",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/2088870.jpg&ch=620&cw=620",
+        "id_tierlist": "210"
+    },
+    {
+        "nombre": "FTK",
+        "categoria": "FTK",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/58604027.jpg&ch=620&cw=620",
+        "id_tierlist": "211"
+    },
+    {
+        "nombre": "Orgoth the Relentless",
+        "categoria": "Decentes",
+        "src": "https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/15744417.jpg",
+        "id_tierlist": "212"
+    },
+    {
+        "nombre": "Draco Berserker of the Tenyi",
+        "categoria": "Fuertes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/5041348.jpg&ch=620&cw=620",
+        "id_tierlist": "213"
+    },
+    {
+        "nombre": "Ursarctic Polari",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/27693363.jpg&ch=620&cw=620",
+        "id_tierlist": "214"
+    },
+    {
+        "nombre": "Guerreros de Fuego \/ Fire Warriors",
+        "categoria": "Normales",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/22091647.jpg&ch=620&cw=620",
+        "id_tierlist": "215"
+    },
+    {
+        "nombre": "Charmers",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/91530236.jpg&ch=620&cw=620",
+        "id_tierlist": "216"
+    },
+    {
+        "nombre": "Coins \/ Monedas",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/76728962.jpg&ch=620&cw=620",
+        "id_tierlist": "217"
+    },
+    {
+        "nombre": "Mermail",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/22446869.jpg&ch=620&cw=620",
+        "id_tierlist": "218"
+    },
+    {
+        "nombre": "Dual Avatar",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/33026283.jpg&ch=620&cw=620",
+        "id_tierlist": "219"
+    },
+    {
+        "nombre": "Karakuri",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/30230789.jpg&ch=620&cw=620",
+        "id_tierlist": "220"
+    },
+    {
+        "nombre": "Deep Sea",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/78868119.jpg&ch=620&cw=620",
+        "id_tierlist": "221"
+    },
+    {
+        "nombre": "Dinosaurios",
+        "categoria": "Decentes",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/38572779.jpg&ch=620&cw=620",
+        "id_tierlist": "222"
+    },
+    {
+        "nombre": "Archfiend",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/28423537.jpg&ch=620&cw=620",
+        "id_tierlist": "223"
+    },
+    {
+        "nombre": "Spirit",
+        "categoria": "Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/16889337.jpg&ch=620&cw=620",
+        "id_tierlist": "224"
+    },
+    {
+        "nombre": "Umbral Horror",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/7152333.jpg&ch=712&cw=712",
+        "id_tierlist": "225"
+    },
+    {
+        "nombre": "Gemini",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/69488544.jpg&ch=620&cw=620",
+        "id_tierlist": "226"
+    },
+    {
+        "nombre": "LV - Nivel",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/25290459.jpg&ch=620&cw=620",
+        "id_tierlist": "226"
+    },
+    {
+        "nombre": "Umbral Horror Ghoul",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/7152333.jpg&ch=620&cw=620",
+        "id_tierlist": "227"
+    },
+    {
+        "nombre": "Draconia",
+        "categoria": "Mas alla del Fun",
+        "src": "https:\/\/wsrv.nl\/?url=https:\/\/images.ygoprodeck.com\/images\/cards_cropped\/73779005.jpg&ch=620&cw=620",
+        "id_tierlist": "228"
+    }
+]
